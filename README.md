@@ -1,2 +1,2 @@
 # Learnings
-My all learnings will be here
+This is the repository of all my learnings
